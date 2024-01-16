@@ -1,6 +1,6 @@
 Olá,
 Eu sou um jovem de 25 anos que vive em Portugal, Bragança.
-Neste momento não me encontro a trabalhar na area de programação nem nada relacionado a computadores, porém viver da programação é um dos meus objetivos de vida.
+Neste momento não me encontro a trabalhar na area de programação nem nada relacionado a informática, porém viver da programação é um dos meus objetivos de vida.
 Encontro-me a aprofundar os meus conhecimentos em Data Science, Web Development e Software Development.
 Estou disposto a participar em qualquer tipo de projeto, tenho muito interesse nesta área!
 
