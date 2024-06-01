@@ -1,4 +1,4 @@
-# Hi there, I'm [devMotcho]! 👋
+# Hi there, I'm Motcho! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devMotcho&color=blue)
 
@@ -10,11 +10,9 @@ Here you can find some of my projects, contributions, and interests.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [REST api's]
-  - 👯 I’m looking to collaborate on [open source projects]
-- 💬 Ask me about [Django]
-- 📫 How to reach me: [bernardo@inforestacio.pt]
-- 😄 Pronouns: [He/Him]
+- 🌱 I’m currently learning developing REST API's
+- 💬 Ask me about Django and Python
+- 📫 How to reach me: dev.mmd2@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -28,7 +26,7 @@ Here you can find some of my projects, contributions, and interests.
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bernardo@inforestacio.pt)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.mmd2@gmail.com)
 
 ---
 
