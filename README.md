@@ -38,7 +38,6 @@ Here you can find some of my projects, contributions, and interests.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.mmd2@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devMotcho)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+351932960168)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/devmmd2)
 
 ---
 
