@@ -1,4 +1,5 @@
 # Hi there, I'm Motcho! 👋
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devMotcho&color=blue)
 
@@ -8,11 +9,7 @@ In ancient times, the owl was a symbol of wisdom and knowledge. It was associate
 I’m a passionate software developer with a love for open-source projects and a knack for solving complex problems.
 Here you can find some of my projects, contributions, and interests.
 
-## 🚀 About Me
-
-- 🌱 I’m currently learning developing REST API's
-- 💬 Ask me about Django and Python
-- 📫 How to reach me: dev.mmd2@gmail.com
+📫 How to reach me: dev.mmd2@gmail.com
 
 ## 🛠️ Technologies & Tools
 
