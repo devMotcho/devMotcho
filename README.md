@@ -25,7 +25,7 @@ Here you can find some of my projects.
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
