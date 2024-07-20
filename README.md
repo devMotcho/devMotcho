@@ -12,8 +12,8 @@ Here you can find some of my projects.
 
 
 👁️ **I am searching for a job as a backend developer or similiar, I am open to contribute with open-source projects too!**
-📖 Currently i am learning: .NET core and C#
-📫 How to reach me: dev.mmd2@gmail.com
+📖 **Currently i am learning: .NET core and C#**
+📫 **How to reach me: dev.mmd2@gmail.com**
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
