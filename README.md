@@ -19,16 +19,16 @@ Here you can find some of my projects.
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpressC)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 
 
 ## 📫 Contact Me
