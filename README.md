@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=devMotcho&color=blue)
 
 
-## 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
